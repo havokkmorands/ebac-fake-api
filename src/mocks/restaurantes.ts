@@ -1,4 +1,4 @@
-const mediaPath = 'https://ebac-fake-api.vercel.app/api/efood/'
+const mediaPath = 'https://ebac-fake-api.vercel.app/efood/'
 
 const items = [
   {
